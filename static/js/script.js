@@ -270,7 +270,7 @@ async function dealerLogic(){
       
     
 }
-
+// function to compute winner 
 function computerWinner(){
     let winner;
 
