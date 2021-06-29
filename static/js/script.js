@@ -293,7 +293,7 @@ function computerWinner(){
     console.log(blackjackGame)
     return winner;
 }
-
+// function to show result
 function showResult(winner){
 
     let message, messageColor;
